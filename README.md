@@ -1,10 +1,8 @@
-# calculator
+# Modern Calculator
 
-This is a small one hour project, not really something to be published but just for me. 
-
-I need a calculator often, but fireing up a google calculator is a pain in the ass and the apple one is too clumsy. 
-
-Plus when I am doing integer arithmatics, I do __NOT__ need floating points.
+### Tired of opening a browser window to use the calculator? Or annoyed that your (MacOS) calculator is hard to use?
+### Here is your solution! A Simple, Fast and Smart Calculator!
+### Get floating points only when you need it! Designed with usability at it's heart!
 
 # Building
 ```
@@ -14,8 +12,5 @@ $ c++ main.cpp -o calc -std=c++23 -O3
 # Usage
 ```
 $ ./calc
+[Your expressions here]
 ```
-
-# Misc
-
-One expression at a time (as my needs)
