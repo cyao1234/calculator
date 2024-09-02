@@ -1,5 +1,6 @@
-<h1>Simple fast Calculator</h1>
+
 <div align="center" >
+<h1>Simple fast Calculator</h1>
 <img src="https://cloud-kqat0hb0m-hack-club-bot.vercel.app/0screenshot_2024-08-24_at_9.24.15_am.png">
 
 Tired of opening a browser window to use the calculator? Or annoyed that your (MacOS) calculator is hard to use?
